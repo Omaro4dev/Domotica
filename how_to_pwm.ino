@@ -7,8 +7,8 @@ Description   :
 	http://fr.wikipedia.org/wiki/Modulation_de_largeur_d%27impulsion
 
 	Il est  à  noter que  les  pins avec  PWM  sur  la  ARDUINO UNO sont  :  3,5,6,9 et  10  . 
-
-	Le principe est simple  :  avec  cette technique  on  pourra   contrôler  la  variation de  la  tension en  Output  du  pin concerné . 
+	Le principe est simple  :  avec  cette technique  on  pourra   contrôler  la  variation de  
+	la  tension en  Output  du  pin concerné . 
 
 Project : Domotica  . 
 Contact  :  omar.garci.etu@gmail.com 
