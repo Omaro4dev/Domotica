@@ -43,5 +43,5 @@ void loop() {
 			Serial.print(brightness);
 			analogWrite(ledPin,brightness);  // on allume  la  Led  avec  la  valeur  recuperee .
 		}
-	}
+	} 
 }
