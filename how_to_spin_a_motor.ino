@@ -118,7 +118,8 @@ void motorAcceleration()
 }
 
 
-// Cette fonction permet d'utilair
+// Cette fonction permet d'utiliser  le  moniteur serie pour  une valeur de  vitesse
+// entre  0 et 255   forunie  par l'utilisateur  . 
 
 
 
